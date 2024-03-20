@@ -1,16 +1,3 @@
-# flutter_vegatables_page_ui_design
+<img align="center" src="https://github.com/onderozduyucu/flutter_vegatables_page_ui_design/assets/149434617/688b5320-af47-4f4d-9a37-0c875cbaac04.gif" alt="(sonra gir)" width="204" height="434" />
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
